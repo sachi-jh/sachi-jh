@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+My LinkedIn: https://www.linkedin.com/in/sachi-hansalia/
+
+Computer Science student at the university of texas at dallas. Interested in learning more!
+
+Reach me at: hansachica@gmail.com or sachi.hansalia@utdallas.edu
+
 <!--
 **sachi-jh/sachi-jh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
